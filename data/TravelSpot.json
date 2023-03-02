@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Cox's Bazar",
+    "img": "https://i.ibb.co/m4CgRJG/cox-s-bazar.png"
+  },
+  {
+    "id": 2,
+    "name": "Sreemongol",
+    "img": "https://i.ibb.co/gg2ft21/Sreemongol.png"
+  },
+  {
+    "id": 3,
+    "name": "Sundorbon",
+    "img": "https://i.ibb.co/FVjDCNh/sundorbon.png"
+  },
+  {
+    "id": 4,
+    "name": "Sajek",
+    "img": "https://i.ibb.co/x8ZQgkQ/Sajek.png"
+  }
+]

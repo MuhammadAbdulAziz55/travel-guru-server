@@ -1,10 +1,35 @@
 [
   {
-    "id": 1,
-    "name": "sheraton"
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "spot_id": 1,
+    "travel_spot": "Cox's Bazar",
+    "title": "Stay in Cox's Bazar",
+    "room_title": "Light bright airy stylish apt & safe peaceful stay",
+    "room_Info": "4guest 2bedrooms 2beds 2baths Wifi Air condition kitchen ",
+    "review": "4.9(20)",
+    "price": "34/night",
+    "img": "https://i.ibb.co/Pxb292S/Rectangle-26.png"
   },
   {
-    "id": 2,
-    "name": "thaiton"
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "spot_id": 1,
+    "travel_spot": "Cox's Bazar",
+    "title": "Stay in Cox's Bazar",
+    "room_title": "Light bright airy stylish apt & safe peaceful stay",
+    "room_Info": "4guest 2bedrooms 2beds 2baths Wifi Air condition kitchen ",
+    "review": "4.9(20)",
+    "price": "34/night",
+    "img": "https://i.ibb.co/5TG7m2P/Rectangle-27.png"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+    "spot_id": 2,
+    "travel_spot": "Sajek",
+    "title": "Stay in Sajek",
+    "room_title": "Light bright airy stylish apt & safe peaceful stay",
+    "room_Info": "4guest 2bedrooms 2beds 2baths Wifi Air condition kitchen ",
+    "review": "4.9(20)",
+    "price": "34/night",
+    "img": "https://i.ibb.co/5TG7m2P/Rectangle-27.png"
   }
 ]
